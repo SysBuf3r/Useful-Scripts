@@ -2,6 +2,7 @@
 Every once in a while we'll need to calculate a CIDR range, and why not do it in python to make things easier for us
 This program takes a CIDR range and displays all the IP addresses in the specified range, in addition it also calculates the sum of all the addresses
 This script can be useful in either running nessus scans and you need to specify a range from a file or something
+-> Python 3
 
 """
 import ipaddress
